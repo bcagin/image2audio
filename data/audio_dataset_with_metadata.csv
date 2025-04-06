@@ -1,0 +1,201 @@
+audio,song_id,genre_id,genre,metadata
+"{'path': None, 'array': array([-6.10351562e-05, -6.10351562e-05, -3.05175781e-05, ...,
+       -3.96728516e-04, -1.52587891e-04, -4.88281250e-04]), 'sampling_rate': 44100}",11483,9,International,"trombone, 117 bpm, Brass & Military, Marches, D, documentary"
+"{'path': None, 'array': array([9.15527344e-05, 2.74658203e-04, 2.13623047e-04, ...,
+       5.52368164e-03, 9.39941406e-03, 1.35498047e-02]), 'sampling_rate': 44100}",6824,9,International,"sampler, documentary, Funk / Soul, Neo Soul, 161 bpm, G"
+"{'path': None, 'array': array([-0.00201416, -0.00152588, -0.00125122, ..., -0.1713562 ,
+       -0.17202759, -0.16763306]), 'sampling_rate': 44100}",8361,8,Pop,"120 bpm, sampler, B, Funk / Soul, Swingbeat, documentary"
+"{'path': None, 'array': array([0.19265747, 0.20065308, 0.23135376, ..., 0.03961182, 0.05429077,
+       0.07150269]), 'sampling_rate': 44100}",12269,9,International,"groovy, F#, Funk / Soul, Swingbeat, acousticbassguitar, 178 bpm"
+"{'path': None, 'array': array([-0.0015564 , -0.00137329, -0.0012207 , ...,  0.00787354,
+       -0.06430054, -0.046875  ]), 'sampling_rate': 44100}",1063,0,Electronic,"172 bpm, soundscape, Funk / Soul, Swingbeat, D, sampler"
+"{'path': None, 'array': array([-3.05175781e-04, -6.10351562e-05,  1.83105469e-04, ...,
+       -2.73223877e-01, -2.99224854e-01, -2.61138916e-01]), 'sampling_rate': 44100}",11704,6,Chiptune / Glitch,"Funk / Soul, Neo Soul, D#, 71 bpm, documentary, sampler"
+"{'path': None, 'array': array([-0.00134277, -0.00137329, -0.00137329, ...,  0.04476929,
+        0.02999878,  0.01330566]), 'sampling_rate': 44100}",18506,8,Pop,"documentary, 120 bpm, C#, acousticbassguitar, Stage & Screen, Soundtrack"
+"{'path': None, 'array': array([0.00167847, 0.00210571, 0.00180054, ..., 0.0513916 , 0.10580444,
+       0.12890625]), 'sampling_rate': 44100}",6826,2,Punk,"Rock, Funeral Doom Metal, documentary, acousticguitar, E, 91 bpm"
+"{'path': None, 'array': array([-0.0045166 , -0.00375366, -0.00354004, ...,  0.05703735,
+       -0.00311279, -0.05657959]), 'sampling_rate': 44100}",24811,0,Electronic,"F, 129 bpm, sampler, Electronic, Acid House, groovy"
+"{'path': None, 'array': array([-2.44140625e-04, -9.15527344e-05, -1.52587891e-04, ...,
+        2.09838867e-01,  1.91680908e-01,  1.51855469e-01]), 'sampling_rate': 44100}",5144,8,Pop,"Funk / Soul, Gospel, 167 bpm, A, adventure, acousticbassguitar"
+"{'path': None, 'array': array([0.09707642, 0.11743164, 0.09628296, ..., 0.1026001 , 0.13952637,
+       0.17462158]), 'sampling_rate': 44100}",13722,6,Chiptune / Glitch,"115 bpm, sampler, C, Electronic, Breakbeat, documentary"
+"{'path': None, 'array': array([-0.07672119, -0.07821655, -0.06802368, ..., -0.0406189 ,
+       -0.04876709, -0.04147339]), 'sampling_rate': 44100}",4085,9,International,"E, 140 bpm, trailer, harmonica, Blues, Harmonica Blues"
+"{'path': None, 'array': array([ 0.00674438,  0.00778198,  0.00796509, ..., -0.23153687,
+       -0.24478149, -0.22976685]), 'sampling_rate': 44100}",24317,5,Folk,"G, Blues, Harmonica Blues, 91 bpm, acousticguitar, trailer"
+"{'path': None, 'array': array([-0.00067139, -0.00067139, -0.00076294, ...,  0.09207153,
+        0.0892334 ,  0.08700562]), 'sampling_rate': 44100}",6555,9,International,"Funk / Soul, New Jack Swing, A, 157 bpm, flute, adventure"
+"{'path': None, 'array': array([-2.44140625e-04, -1.22070312e-04,  3.05175781e-05, ...,
+        1.41418457e-01,  1.26495361e-01,  8.61816406e-02]), 'sampling_rate': 44100}",14683,2,Punk,"D, acousticguitar, Stage & Screen, Soundtrack, documentary, 144 bpm"
+"{'path': None, 'array': array([ 0.00076294,  0.00079346,  0.0007019 , ..., -0.17575073,
+       -0.18273926, -0.17062378]), 'sampling_rate': 44100}",19895,5,Folk,"Stage & Screen, Soundtrack, 103 bpm, documentary, C, acousticbassguitar"
+"{'path': None, 'array': array([0.00170898, 0.00253296, 0.00305176, ..., 0.0526123 , 0.02758789,
+       0.02575684]), 'sampling_rate': 44100}",20227,4,Hip-Hop,"D#, documentary, 157 bpm, sampler, Rock, Experimental"
+"{'path': None, 'array': array([0.00082397, 0.0005188 , 0.00042725, ..., 0.05325317, 0.06140137,
+       0.0531311 ]), 'sampling_rate': 44100}",6447,2,Punk,"A, 167 bpm, acousticguitar, Rock, Garage Rock, groovy"
+"{'path': None, 'array': array([ 0.00027466, -0.00076294, -0.0020752 , ..., -0.10198975,
+       -0.18395996, -0.19805908]), 'sampling_rate': 44100}",24926,1,Rock,"Funk / Soul, Psychedelic, 136 bpm, acousticbassguitar, A, documentary"
+"{'path': None, 'array': array([-6.10351562e-05, -1.83105469e-04, -9.15527344e-05, ...,
+        9.24682617e-03,  9.82666016e-03,  1.08337402e-02]), 'sampling_rate': 44100}",945,1,Rock,"Rock, Garage Rock, adventure, acousticguitar, A, 144 bpm"
+"{'path': None, 'array': array([ 2.44140625e-04,  0.00000000e+00, -9.15527344e-05, ...,
+        8.86230469e-02,  6.68334961e-02,  7.72094727e-02]), 'sampling_rate': 44100}",19746,8,Pop,"acousticbassguitar, C, 161 bpm, Funk / Soul, New Jack Swing, documentary"
+"{'path': None, 'array': array([ 0.00042725, -0.0005188 , -0.00033569, ...,  0.11315918,
+        0.11380005,  0.13305664]), 'sampling_rate': 44100}",9294,4,Hip-Hop,"groovy, Funk / Soul, Swingbeat, sampler, A, 99 bpm"
+"{'path': None, 'array': array([ 0.09472656,  0.109375  ,  0.12042236, ..., -0.31585693,
+       -0.32113647, -0.26422119]), 'sampling_rate': 44100}",5327,1,Rock,"Funk / Soul, Gospel, 103 bpm, adventure, D, acousticbassguitar"
+"{'path': None, 'array': array([-0.22433472, -0.25021362, -0.25134277, ...,  0.11880493,
+        0.11141968,  0.09912109]), 'sampling_rate': 44100}",14909,6,Chiptune / Glitch,"140 bpm, Electronic, Downtempo, documentary, synthesizer, D#"
+"{'path': None, 'array': array([ 0.00000000e+00,  0.00000000e+00,  3.05175781e-05, ...,
+       -3.44848633e-03, -1.83105469e-03, -4.27246094e-04]), 'sampling_rate': 44100}",3594,7,Instrumental,"documentary, synthesizer, 98 bpm, Funk / Soul, Neo Soul, D#"
+"{'path': None, 'array': array([-0.00057983, -0.0005188 , -0.00045776, ..., -0.05813599,
+       -0.07354736, -0.08169556]), 'sampling_rate': 44100}",17833,1,Rock,"Funk / Soul, Gospel, acousticbassguitar, 65 bpm, A, documentary"
+"{'path': None, 'array': array([0.00024414, 0.00039673, 0.0007019 , ..., 0.00296021, 0.00634766,
+       0.00820923]), 'sampling_rate': 44100}",12584,7,Instrumental,"documentary, Electronic, New Beat, sampler, C, 120 bpm"
+"{'path': None, 'array': array([ 0.00125122,  0.00112915,  0.00088501, ..., -0.29879761,
+       -0.30096436, -0.27282715]), 'sampling_rate': 44100}",11691,1,Rock,"acousticguitar, Funk / Soul, Psychedelic, adventure, E, 129 bpm"
+"{'path': None, 'array': array([0.00170898, 0.00177002, 0.00167847, ..., 0.23025513, 0.27047729,
+       0.24276733]), 'sampling_rate': 44100}",686,9,International,"groovy, Funk / Soul, Swingbeat, D, 83 bpm, acousticbassguitar"
+"{'path': None, 'array': array([ 1.09863281e-03,  1.06811523e-03,  3.96728516e-04, ...,
+       -8.94653320e-01, -9.56970215e-01, -9.05731201e-01]), 'sampling_rate': 44100}",8753,6,Chiptune / Glitch,"B, groovy, 140 bpm, sampler, Electronic, Eurobeat"
+"{'path': None, 'array': array([0.00115967, 0.00088501, 0.00054932, ..., 0.26168823, 0.23428345,
+       0.19415283]), 'sampling_rate': 44100}",3070,1,Rock,"D, acousticguitar, Rock, Alternative Rock, 89 bpm, adventure"
+"{'path': None, 'array': array([ 0.00064087,  0.00057983,  0.0005188 , ..., -0.04223633,
+       -0.03955078, -0.03634644]), 'sampling_rate': 44100}",15703,5,Folk,"Rock, Acoustic, 92 bpm, adventure, acousticguitar, G"
+"{'path': None, 'array': array([ 0.00085449,  0.0017395 ,  0.0012207 , ..., -0.13302612,
+       -0.16998291, -0.18429565]), 'sampling_rate': 44100}",20611,3,Experimental,"documentary, drummachine, 112 bpm, A#, Electronic, UK Garage"
+"{'path': None, 'array': array([-9.15527344e-05,  9.15527344e-05, -3.05175781e-05, ...,
+        4.23645020e-01,  3.29833984e-01,  1.59881592e-01]), 'sampling_rate': 44100}",1456,0,Electronic,"94 bpm, documentary, Rock, Funeral Doom Metal, A, drums"
+"{'path': None, 'array': array([-0.00100708, -0.00061035, -0.0010376 , ..., -0.07415771,
+       -0.06222534, -0.03890991]), 'sampling_rate': 44100}",16493,8,Pop,"accordion, melodic, B, Folk, World, & Country, Séga, 133 bpm"
+"{'path': None, 'array': array([-6.40869141e-04,  1.52587891e-04,  1.52587891e-04, ...,
+       -2.57812500e-01, -2.16064453e-01, -1.78070068e-01]), 'sampling_rate': 44100}",6237,9,International,"Funk / Soul, Swingbeat, 178 bpm, D#, groovy, acousticbassguitar"
+"{'path': None, 'array': array([0.00030518, 0.00125122, 0.00091553, ..., 0.07666016, 0.0965271 ,
+       0.11071777]), 'sampling_rate': 44100}",12273,1,Rock,"C#, adventure, acousticbassguitar, Funk / Soul, Psychedelic, 92 bpm"
+"{'path': None, 'array': array([0.00057983, 0.00170898, 0.00109863, ..., 0.18325806, 0.20098877,
+       0.20663452]), 'sampling_rate': 44100}",22548,9,International,"acousticbassguitar, 144 bpm, F#, Funk / Soul, Contemporary R&B, groovy"
+"{'path': None, 'array': array([-0.00042725,  0.00033569,  0.00015259, ...,  0.05755615,
+        0.13754272,  0.14389038]), 'sampling_rate': 44100}",901,0,Electronic,"groovy, B, 101 bpm, Funk / Soul, Swingbeat, acousticbassguitar"
+"{'path': None, 'array': array([-0.22354126, -0.25628662, -0.2565918 , ..., -0.11108398,
+       -0.08499146, -0.03848267]), 'sampling_rate': 44100}",8611,0,Electronic,"123 bpm, sampler, documentary, Electronic, Eurobeat, D"
+"{'path': None, 'array': array([9.15527344e-05, 7.62939453e-04, 2.13623047e-04, ...,
+       1.35925293e-01, 1.50970459e-01, 1.12731934e-01]), 'sampling_rate': 44100}",10084,6,Chiptune / Glitch,"Electronic, Chiptune, sampler, game, 140 bpm, B"
+"{'path': None, 'array': array([ 0.0005188 , -0.00027466,  0.00082397, ..., -0.00234985,
+        0.00186157, -0.00561523]), 'sampling_rate': 44100}",6123,9,International,"86 bpm, C, Rock, Experimental, documentary, acousticbassguitar"
+"{'path': None, 'array': array([-1.55639648e-03,  3.35693359e-04, -5.55419922e-03, ...,
+       -4.88403320e-01, -2.97210693e-01, -1.45080566e-01]), 'sampling_rate': 44100}",12301,7,Instrumental,"documentary, C, 92 bpm, Electronic, Eurobeat, sampler"
+"{'path': None, 'array': array([ 0.00219727,  0.00167847,  0.0022583 , ..., -0.20123291,
+       -0.18566895, -0.16314697]), 'sampling_rate': 44100}",19137,9,International,"A, Folk, World, & Country, Laïkó, sport, 92 bpm, viola"
+"{'path': None, 'array': array([-0.03076172, -0.03411865,  0.0305481 , ..., -0.22912598,
+       -0.24020386, -0.27334595]), 'sampling_rate': 44100}",8346,6,Chiptune / Glitch,"sampler, game, C, Electronic, Chiptune, 85 bpm"
+"{'path': None, 'array': array([0.00033569, 0.00027466, 0.00015259, ..., 0.00854492, 0.00640869,
+       0.00430298]), 'sampling_rate': 44100}",5261,1,Rock,"Blues, Harmonica Blues, documentary, 78 bpm, D, acousticguitar"
+"{'path': None, 'array': array([-0.00067139, -0.00238037, -0.00137329, ..., -0.0206604 ,
+       -0.0098877 , -0.00631714]), 'sampling_rate': 44100}",5208,7,Instrumental,"Funk / Soul, Swingbeat, G#, 133 bpm, documentary, sampler"
+"{'path': None, 'array': array([-3.05175781e-04,  1.34277344e-03,  1.22070312e-04, ...,
+       -1.88690186e-01, -1.70776367e-01, -1.49505615e-01]), 'sampling_rate': 44100}",24108,5,Folk,"148 bpm, G#, documentary, acousticguitar, Funk / Soul, Psychedelic"
+"{'path': None, 'array': array([-0.0057373 , -0.00500488, -0.00421143, ...,  0.07125854,
+        0.06277466,  0.07034302]), 'sampling_rate': 44100}",699,4,Hip-Hop,"A, 86 bpm, Funk / Soul, Contemporary R&B, groovy, acousticbassguitar"
+"{'path': None, 'array': array([ 0.00036621,  0.00033569,  0.00033569, ..., -0.14315796,
+       -0.15948486, -0.14959717]), 'sampling_rate': 44100}",3162,1,Rock,"Funk / Soul, Psychedelic, F#, acousticguitar, 83 bpm, documentary"
+"{'path': None, 'array': array([ 6.10351562e-05,  3.05175781e-05, -3.05175781e-05, ...,
+       -2.13928223e-02, -1.77612305e-02, -1.72729492e-02]), 'sampling_rate': 44100}",23615,5,Folk,"94 bpm, G#, documentary, acousticbassguitar, Funk / Soul, Contemporary R&B"
+"{'path': None, 'array': array([0.00119019, 0.00097656, 0.00073242, ..., 0.16619873, 0.09289551,
+       0.04867554]), 'sampling_rate': 44100}",16556,2,Punk,"D, acousticguitar, 123 bpm, Funk / Soul, Psychedelic, groovy"
+"{'path': None, 'array': array([0.01577759, 0.02041626, 0.02035522, ..., 0.02648926, 0.02197266,
+       0.02374268]), 'sampling_rate': 44100}",14412,9,International,"Funk / Soul, New Jack Swing, acousticbassguitar, 129 bpm, A, adventure"
+"{'path': None, 'array': array([-0.00219727, -0.00238037, -0.00180054, ...,  0.06677246,
+        0.06115723,  0.07116699]), 'sampling_rate': 44100}",10074,6,Chiptune / Glitch,"D, acousticguitar, 115 bpm, documentary, Electronic, Sound Collage"
+"{'path': None, 'array': array([-0.00064087, -0.00061035, -0.00048828, ...,  0.29367065,
+        0.29953003,  0.27630615]), 'sampling_rate': 44100}",3385,2,Punk,"98 bpm, Rock, Garage Rock, D, acousticguitar, documentary"
+"{'path': None, 'array': array([-1.52587891e-04, -1.22070312e-04, -1.52587891e-04, ...,
+        1.52374268e-01,  1.53533936e-01,  1.48437500e-01]), 'sampling_rate': 44100}",10266,6,Chiptune / Glitch,"acousticbassguitar, 199 bpm, Electronic, Tribal House, F, documentary"
+"{'path': None, 'array': array([ 0.07879639,  0.00854492, -0.22305298, ...,  0.23962402,
+        0.28637695,  0.26815796]), 'sampling_rate': 44100}",17309,0,Electronic,"groovy, sampler, C#, 85 bpm, Electronic, Dubstep"
+"{'path': None, 'array': array([ 1.83105469e-04,  5.18798828e-04, -9.15527344e-05, ...,
+       -2.38830566e-01, -3.18145752e-01, -3.17840576e-01]), 'sampling_rate': 44100}",6617,4,Hip-Hop,"C, groovy, drums, 129 bpm, Funk / Soul, Swingbeat"
+"{'path': None, 'array': array([ 1.22070312e-04,  0.00000000e+00,  0.00000000e+00, ...,
+       -1.96075439e-01, -1.94793701e-01, -1.65466309e-01]), 'sampling_rate': 44100}",6104,9,International,"172 bpm, Funk / Soul, Swingbeat, C#, sampler, documentary"
+"{'path': None, 'array': array([ 0.00018311,  0.00024414,  0.00021362, ..., -0.03442383,
+       -0.03857422, -0.0362854 ]), 'sampling_rate': 44100}",15863,5,Folk,"D, acousticguitar, documentary, 80 bpm, Blues, Modern Electric Blues"
+"{'path': None, 'array': array([0.00033569, 0.00054932, 0.00064087, ..., 0.03323364, 0.03265381,
+       0.02835083]), 'sampling_rate': 44100}",4073,7,Instrumental,"Funk / Soul, Neo Soul, documentary, 157 bpm, F, sampler"
+"{'path': None, 'array': array([-2.13623047e-04, -9.15527344e-05, -2.44140625e-04, ...,
+       -7.89489746e-02, -8.51745605e-02, -7.52258301e-02]), 'sampling_rate': 44100}",15178,4,Hip-Hop,"drums, groovy, Hip Hop, Cut-up/DJ, C, 112 bpm"
+"{'path': None, 'array': array([-0.00057983, -0.00057983, -0.00057983, ..., -0.01843262,
+       -0.01660156, -0.01593018]), 'sampling_rate': 44100}",18703,4,Hip-Hop,"80 bpm, C, groovy, Funk / Soul, Contemporary R&B, acousticbassguitar"
+"{'path': None, 'array': array([ 0.00000000e+00, -1.52587891e-04,  6.10351562e-05, ...,
+       -1.43676758e-01, -1.90368652e-01, -2.16430664e-01]), 'sampling_rate': 44100}",16448,4,Hip-Hop,"acousticbassguitar, documentary, 76 bpm, Funk / Soul, Contemporary R&B, D"
+"{'path': None, 'array': array([0.00274658, 0.0022583 , 0.00170898, ..., 0.3331604 , 0.48373413,
+       0.47433472]), 'sampling_rate': 44100}",13843,0,Electronic,"sampler, 178 bpm, documentary, D, Funk / Soul, Swingbeat"
+"{'path': None, 'array': array([0.00073242, 0.00088501, 0.00082397, ..., 0.11557007, 0.12631226,
+       0.11849976]), 'sampling_rate': 44100}",21982,7,Instrumental,"groovy, A#, Blues, Piano Blues, 117 bpm, acousticbassguitar"
+"{'path': None, 'array': array([ 9.15527344e-05,  1.83105469e-04, -1.52587891e-04, ...,
+       -3.65722656e-01, -4.02801514e-01, -3.90319824e-01]), 'sampling_rate': 44100}",12329,2,Punk,"acousticguitar, Rock, Garage Rock, 94 bpm, adventure, D"
+"{'path': None, 'array': array([-0.00042725, -0.00036621, -0.0005188 , ...,  0.02947998,
+        0.02029419,  0.01394653]), 'sampling_rate': 44100}",20571,9,International,"acousticbassguitar, documentary, 101 bpm, Electronic, Tribal House, C"
+"{'path': None, 'array': array([ 2.13623047e-04,  9.15527344e-05,  0.00000000e+00, ...,
+       -3.81774902e-02, -2.92968750e-02, -1.73034668e-02]), 'sampling_rate': 44100}",18009,3,Experimental,"126 bpm, C, documentary, Electronic, Eurobeat, sampler"
+"{'path': None, 'array': array([-0.12054443, -0.13287354, -0.1340332 , ...,  0.11230469,
+        0.11315918,  0.10040283]), 'sampling_rate': 44100}",5284,4,Hip-Hop,"documentary, 92 bpm, E, Funk / Soul, Neo Soul, sampler"
+"{'path': None, 'array': array([ 0.00024414,  0.00067139,  0.00021362, ...,  0.01431274,
+       -0.00085449, -0.00787354]), 'sampling_rate': 44100}",12117,6,Chiptune / Glitch,"sampler, A, 112 bpm, Funk / Soul, Swingbeat, documentary"
+"{'path': None, 'array': array([ 6.10351562e-05,  1.83105469e-04,  3.35693359e-04, ...,
+       -1.53198242e-02, -1.18103027e-02, -1.28784180e-02]), 'sampling_rate': 44100}",16530,2,Punk,"documentary, 167 bpm, Rock, Garage Rock, acousticguitar, F#"
+"{'path': None, 'array': array([0.00131226, 0.00140381, 0.00100708, ..., 0.03372192, 0.01998901,
+       0.04086304]), 'sampling_rate': 44100}",18240,4,Hip-Hop,"A, groovy, Funk / Soul, Swingbeat, 91 bpm, sampler"
+"{'path': None, 'array': array([-0.02487183, -0.02157593, -0.02059937, ...,  0.03564453,
+        0.04190063,  0.06222534]), 'sampling_rate': 44100}",7145,8,Pop,"136 bpm, adventure, Funk / Soul, Psychedelic, F#, acousticbassguitar"
+"{'path': None, 'array': array([ 0.00082397,  0.00015259,  0.00021362, ..., -0.00811768,
+       -0.02380371, -0.02090454]), 'sampling_rate': 44100}",19916,6,Chiptune / Glitch,"G, 94 bpm, Electronic, Chiptune, game, sampler"
+"{'path': None, 'array': array([ 0.00091553,  0.00076294,  0.00082397, ..., -0.07492065,
+       -0.05062866, -0.02420044]), 'sampling_rate': 44100}",7095,4,Hip-Hop,"185 bpm, documentary, Funk / Soul, Swingbeat, sampler, A#"
+"{'path': None, 'array': array([0.11114502, 0.1227417 , 0.09243774, ..., 0.00234985, 0.00308228,
+       0.0032959 ]), 'sampling_rate': 44100}",9882,3,Experimental,"acousticbassguitar, documentary, A#, Stage & Screen, Soundtrack, 115 bpm"
+"{'path': None, 'array': array([-0.00048828, -0.0005188 , -0.00045776, ..., -0.00280762,
+       -0.00915527, -0.01147461]), 'sampling_rate': 44100}",5432,6,Chiptune / Glitch,"A, Electronic, Ghetto House, documentary, 126 bpm, synthesizer"
+"{'path': None, 'array': array([ 0.00036621,  0.00036621,  0.00015259, ..., -0.07849121,
+       -0.05065918,  0.00592041]), 'sampling_rate': 44100}",24547,6,Chiptune / Glitch,"Electronic, Acid House, C, 92 bpm, sampler, documentary"
+"{'path': None, 'array': array([ 0.00018311, -0.00030518, -0.00012207, ..., -0.02954102,
+       -0.03399658, -0.03213501]), 'sampling_rate': 44100}",8685,6,Chiptune / Glitch,"computer, C#, 133 bpm, Electronic, Musique Concrète, documentary"
+"{'path': None, 'array': array([ 0.00000000e+00, -3.05175781e-05, -3.05175781e-05, ...,
+       -4.22058105e-02, -3.96118164e-02, -3.36608887e-02]), 'sampling_rate': 44100}",8372,3,Experimental,"Electronic, Musique Concrète, documentary, A, 161 bpm, synthesizer"
+"{'path': None, 'array': array([-3.05175781e-05,  0.00000000e+00, -3.05175781e-05, ...,
+       -5.81665039e-02, -6.30187988e-02, -6.28662109e-02]), 'sampling_rate': 44100}",23718,3,Experimental,"documentary, E, electricpiano, 133 bpm, Non-Music, Audiobook"
+"{'path': None, 'array': array([-2.13623047e-04, -2.13623047e-04, -1.83105469e-04, ...,
+       -1.98120117e-01, -2.01538086e-01, -1.62384033e-01]), 'sampling_rate': 44100}",10316,4,Hip-Hop,"C#, 172 bpm, acousticbassguitar, documentary, Funk / Soul, Swingbeat"
+"{'path': None, 'array': array([-0.00024414, -0.00024414, -0.00018311, ..., -0.03109741,
+       -0.0085144 ,  0.01690674]), 'sampling_rate': 44100}",19686,7,Instrumental,"Electronic, Musique Concrète, 161 bpm, documentary, A#, flute"
+"{'path': None, 'array': array([-0.00299072, -0.00292969, -0.00274658, ..., -0.02166748,
+        0.02667236,  0.06506348]), 'sampling_rate': 44100}",15856,5,Folk,"Blues, Modern Electric Blues, A, acousticguitar, documentary, 144 bpm"
+"{'path': None, 'array': array([-0.06652832, -0.07946777, -0.07946777, ...,  0.05038452,
+        0.0380249 ,  0.04537964]), 'sampling_rate': 44100}",653,5,Folk,"Blues, Harmonica Blues, documentary, acousticguitar, G, 126 bpm"
+"{'path': None, 'array': array([ 0.00231934,  0.00418091,  0.00540161, ..., -0.09771729,
+       -0.08056641, -0.04605103]), 'sampling_rate': 44100}",4927,8,Pop,"Funk / Soul, Psychedelic, sampler, 126 bpm, documentary, E"
+"{'path': None, 'array': array([ 0.00024414,  0.00024414,  0.00012207, ..., -0.04248047,
+       -0.05059814, -0.05041504]), 'sampling_rate': 44100}",17851,7,Instrumental,"orchestra, E, 115 bpm, Electronic, Berlin-School, documentary"
+"{'path': None, 'array': array([-0.0017395 , -0.00146484, -0.00073242, ..., -0.40289307,
+       -0.64404297, -0.64785767]), 'sampling_rate': 44100}",11532,0,Electronic,"Funk / Soul, Swingbeat, sampler, A, groovy, 99 bpm"
+"{'path': None, 'array': array([-5.49316406e-04, -8.23974609e-04, -1.19018555e-03, ...,
+       -5.52612305e-01, -5.63720703e-01, -5.34576416e-01]), 'sampling_rate': 44100}",15708,2,Punk,"105 bpm, Rock, Garage Rock, A, acousticbassguitar, groovy"
+"{'path': None, 'array': array([0.00021362, 0.00021362, 0.00024414, ..., 0.00698853, 0.00912476,
+       0.00866699]), 'sampling_rate': 44100}",22052,9,International,"melodic, Folk, World, & Country, Catalan Music, A, 129 bpm, accordion"
+"{'path': None, 'array': array([ 0.00115967,  0.0012207 ,  0.00112915, ..., -0.07794189,
+       -0.09381104, -0.09713745]), 'sampling_rate': 44100}",14564,4,Hip-Hop,"Funk / Soul, Neo Soul, E, documentary, synthesizer, 50 bpm"
+"{'path': None, 'array': array([-4.27246094e-04, -9.15527344e-05, -6.10351562e-05, ...,
+       -5.27038574e-02, -2.17285156e-02,  1.98059082e-02]), 'sampling_rate': 44100}",4280,6,Chiptune / Glitch,"groovy, Electronic, Eurobeat, synthesizer, 172 bpm, C"
+"{'path': None, 'array': array([ 0.01831055,  0.01657104,  0.01000977, ..., -0.00634766,
+       -0.00582886,  0.00106812]), 'sampling_rate': 44100}",2712,9,International,"acousticbassguitar, Folk, World, & Country, Hindustani, D, 157 bpm, documentary"
+"{'path': None, 'array': array([ 0.12237549,  0.12487793,  0.14160156, ..., -0.09591675,
+       -0.08758545, -0.08383179]), 'sampling_rate': 44100}",14933,1,Rock,"adventure, Rock, Garage Rock, B, 133 bpm, acousticbassguitar"
+"{'path': None, 'array': array([-2.44140625e-04, -9.15527344e-05, -9.15527344e-05, ...,
+       -2.51464844e-02, -3.22875977e-02, -2.62145996e-02]), 'sampling_rate': 44100}",9461,5,Folk,"adventure, 112 bpm, Funk / Soul, Psychedelic, acousticbassguitar, F"
+"{'path': None, 'array': array([-1.52587891e-04, -6.10351562e-05, -1.52587891e-04, ...,
+        1.03759766e-03,  3.75366211e-03, -9.76562500e-03]), 'sampling_rate': 44100}",5744,0,Electronic,"G, 167 bpm, drums, Electronic, Tribal House, documentary"
+"{'path': None, 'array': array([-0.00131226, -0.00112915, -0.00088501, ..., -0.05441284,
+       -0.05560303, -0.0526123 ]), 'sampling_rate': 44100}",23819,4,Hip-Hop,"66 bpm, Funk / Soul, Gospel, F#, acousticbassguitar, adventure"
+"{'path': None, 'array': array([-0.00057983, -0.00057983, -0.0005188 , ...,  0.01489258,
+        0.01705933,  0.01693726]), 'sampling_rate': 44100}",6205,3,Experimental,"123 bpm, F#, Blues, Harmonica Blues, acousticguitar, groovy"
+"{'path': None, 'array': array([ 0.0007019 , -0.00308228, -0.00396729, ...,  0.07699585,
+        0.05377197,  0.09338379]), 'sampling_rate': 44100}",4798,7,Instrumental,"123 bpm, B, soundscape, Electronic, Sound Collage, synthesizer"
